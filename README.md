@@ -1,4 +1,4 @@
-## End to End Data Science Cases Study Interview prep
+## End to End Data Science Project
 # Project Name
 
 Short project description
